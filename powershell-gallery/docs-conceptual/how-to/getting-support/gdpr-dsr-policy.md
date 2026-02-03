@@ -91,7 +91,7 @@ information stored in the package.
 You may download the script by using the following PowerShell command:
 
 ```powershell
-Save-Script GetPSGalleryItemsForAuthor PSGallery
+Save-Script GetPSGalleryItemsForAuthor -Repository PSGallery
 ```
 
 You can then run the script directly, by running the following PowerShell commands:
